@@ -1,0 +1,25 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_statemachine/dut
+=== Design Unit: work.statemachine
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        32        32         0   100.00%
+    Statements                      38        38         0   100.00%
+    Toggles                         22        22         0   100.00%
+
+=================================================================================
+=== Instance: /tb_statemachine
+=== Design Unit: work.tb_statemachine
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        16        16         0   100.00%
+    Statements                    3693      3693         0   100.00%
+    Toggles                         46        46         0   100.00%
+
+
+Total Coverage By Instance (filtered view): 100.00%
+

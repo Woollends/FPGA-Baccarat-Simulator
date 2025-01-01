@@ -1,0 +1,54 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_scorehand/dut/cv1
+=== Design Unit: work.cardvalue
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        10        10         0   100.00%
+    Statements                      11        11         0   100.00%
+    Toggles                          8         8         0   100.00%
+
+=================================================================================
+=== Instance: /tb_scorehand/dut/cv2
+=== Design Unit: work.cardvalue
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        10        10         0   100.00%
+    Statements                      11        11         0   100.00%
+    Toggles                          8         8         0   100.00%
+
+=================================================================================
+=== Instance: /tb_scorehand/dut/cv3
+=== Design Unit: work.cardvalue
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        10        10         0   100.00%
+    Statements                      11        11         0   100.00%
+    Toggles                          8         8         0   100.00%
+
+=================================================================================
+=== Instance: /tb_scorehand/dut
+=== Design Unit: work.scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       2         2         0   100.00%
+    Toggles                         32        32         0   100.00%
+
+=================================================================================
+=== Instance: /tb_scorehand
+=== Design Unit: work.tb_scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         2         2         0   100.00%
+    Statements                     152       152         0   100.00%
+    Toggles                         34        34         0   100.00%
+
+
+Total Coverage By Instance (filtered view): 100.00%
+
